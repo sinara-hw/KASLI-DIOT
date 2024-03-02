@@ -1,5 +1,5 @@
 # Kasli
-Kasli is low-cost FPGA carrier, capable of controlling at 12 Eurocard extension modules. It can act as either an ARTIQ central core device, or as a satellite connected to the master via DRTIO.
+Kasli is a low-cost FPGA system board, capable of controlling 8 DI/OT peripheral modules. It can act as either an ARTIQ central core device or a satellite connected to the master via DRTIO.
 
 ## Design Files
 
