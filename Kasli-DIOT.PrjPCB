@@ -581,7 +581,7 @@ UniqueID=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=49
+VariationCount=50
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=0|AlternatePart= 
@@ -631,6 +631,7 @@ Variation46=Designator=R163|UniqueId=\GNHKTQUG\AKIRVBHF\BXMWTZCM|Kind=1|Alternat
 Variation47=Designator=R164|UniqueId=\GNHKTQUG\AKIRVBHF\LSXVGAOT|Kind=1|AlternatePart= 
 Variation48=Designator=R169|UniqueId=\GNHKTQUG\AKIRVBHF\CBLZOGMU|Kind=1|AlternatePart= 
 Variation49=Designator=R170|UniqueId=\GNHKTQUG\AKIRVBHF\TNZBFOZF|Kind=1|AlternatePart= 
+Variation50=Designator=R175|UniqueId=\WKVFNPCC\PJPNWMVI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -638,7 +639,7 @@ UniqueID=A2D5C312-5976-4949-9DA9-6F2832D583FB
 Description=Si549 LVDS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=90
+VariationCount=91
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart= 
@@ -1031,6 +1032,7 @@ Variation87=Designator=R9|UniqueId=\GNHKTQUG\AKIRVBHF\DJCNHTNJ|Kind=1|AlternateP
 Variation88=Designator=R66|UniqueId=\OIQTLDDY\ZKDLVZLU|Kind=1|AlternatePart= 
 Variation89=Designator=C197|UniqueId=\WKVFNPCC\SGVJUFRH|Kind=1|AlternatePart= 
 Variation90=Designator=C198|UniqueId=\WKVFNPCC\RBTKUCWS|Kind=1|AlternatePart= 
+Variation91=Designator=R175|UniqueId=\WKVFNPCC\PJPNWMVI|Kind=1|AlternatePart= 
 ParamVariationCount=151
 
 [Parameter1]
@@ -1638,36 +1640,6 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=Ansoft Neutral
-OutputName11=Ansoft Neutral (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=HyperLynx
-OutputName12=HyperLynx (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=SiSoft
-OutputName16=SiSoft (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
