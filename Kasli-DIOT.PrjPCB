@@ -21,9 +21,9 @@ UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
-NameNetsHierarchically=0
-PowerPortNamesTakePriority=0
-AutoSheetNumbering=0
+NameNetsHierarchically=1
+PowerPortNamesTakePriority=1
+AutoSheetNumbering=1
 AutoCrossReferences=0
 NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
@@ -617,32 +617,32 @@ Variation31=Designator=R301|UniqueId=\TOPTUKAO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=P_copyright_owner
-Value=WUT 2026-2026, TS 2026
+Name=rev
+Value=1.1
 
 [Parameter2]
-Name=P_github_link
-Value=https://github.com/sinara-hw/KASLI-DIOT
+Name=P_version
+Value=1.1
 
 [Parameter3]
-Name=P_release_designers
-Value=Marta Fąfara (TS)
+Name=P_release_reviewers
+Value=Maciej Przybysz (TS)
 
 [Parameter4]
 Name=P_release_owner
 Value=Mikołaj Sowiński (TS)
 
 [Parameter5]
-Name=P_release_reviewers
-Value=Maciej Przybysz (TS)
+Name=P_release_designers
+Value=Marta Fąfara (TS)
 
 [Parameter6]
-Name=P_version
-Value=1.1
+Name=P_github_link
+Value=https://github.com/sinara-hw/KASLI-DIOT
 
 [Parameter7]
-Name=rev
-Value=1.1
+Name=P_copyright_owner
+Value=WUT 2026-2026, TS 2026
 
 [Configuration1]
 Name=Default Configuration
